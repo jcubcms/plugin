@@ -1,15 +1,10 @@
 <?php 
 /**
- * Plugin Name:       Page Takeover
- * Plugin URI:        https://wordpress.org/plugins/page-takeover
- * Description:       Create a full-screen overlay without a developer. Promote your content and offers in a full-screen popup.
- * Version:           1.1.0
- * Author:            WPKube
- * Author URI:        https://wpkube.com/
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       page-takeover
- * Domain Path:       /languages
+ * Plugin Name:       Discount_coupon Plug in
+ * Plugin URI:        http://localhost/wordpress/wp-admin/admin.php?page=page-takeover
+ * Description:       Create a full-screen pop up, in which a new user discount code is available.
+ * Version:           1.0
+ * Author:            Deepika Bansal
  */
 
 // called directly, abort
